@@ -1,7 +1,5 @@
 ﻿namespace GradeBook.Enums
 {
-    public class GradeBook
-    {
         public enum GradeBookType
         {
             Standard,
@@ -11,4 +9,3 @@
             SixPoint
         }
     }
-}
