@@ -6,7 +6,6 @@ using System.Collections.Generic;
 using System.IO;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
-using static GradeBook.Enums.GradeBook;
 
 namespace GradeBook.GradeBooks
 {
